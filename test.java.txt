@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
 Hai Hello Welcome To Java
+=======
+Hai Hello Welcome To Java and this is Remote Repository and this is git stash local git repository with some stashed changes
+
+local changes
+
+remote changes
+>>>>>>> Stashed changes
